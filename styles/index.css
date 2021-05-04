@@ -1,0 +1,23 @@
+
+.task {
+  display: inline-block;
+  padding: 1rem 0.5rem;
+  background-color: rgb(247, 196, 196);
+  margin: 1rem;
+  vertical-align: middle;
+  border-radius: 4px;
+}
+
+.task-holder {
+  border-radius: 6px;
+  padding: 2rem;
+  margin: 20px;
+}
+
+.argument-holder {
+  display: inline-block;
+  background-color: rgb(227, 192, 192);
+  border-radius: 6px;
+  padding: 0.5rem;
+  margin: 1rem;
+}
